@@ -21,12 +21,12 @@ instagram : adimas_shadoet
 */
 const Telegraf = require('telegraf')
 
-const bot = new Telegraf('1675749539:AAH46KNMRschhJDMuI5dclpp9FnB0znEaK4')
+const bot = new Telegraf('5375693976:AAGjmKfOhdC96PAlc72AFNz9qscCrWjLlNA')
 const axios = require('axios')
 
 /*********[ Apikey ]*********/
-let lolhuman = '99ecdb09b1053d90fbc15d56'
-let iteach = 'Ganti pakai apikey kalian' //silahkan login/register di https://api.i-tech.id untuk mendapatkan apikey
+let lolhuman = '83023472f74607e0af58744ab1a27c16'
+let iteach = '15899549' //silahkan login/register di https://api.i-tech.id untuk mendapatkan apikey
 /***************************/
 
 const helpMessage = `Katakan sesuatu kepada saya\n/start - untuk memulai bot\n/menu - untuk menampilkan list menu`;
